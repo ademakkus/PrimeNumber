@@ -1,0 +1,10 @@
+C:\Users\mypc\source\repos\DamaTahtasi2\DamaProject\bin\Debug\DamaProject.exe.config
+C:\Users\mypc\source\repos\DamaTahtasi2\DamaProject\bin\Debug\DamaProject.exe
+C:\Users\mypc\source\repos\DamaTahtasi2\DamaProject\bin\Debug\DamaProject.pdb
+C:\Users\mypc\source\repos\DamaTahtasi2\DamaProject\obj\Debug\DamaProject.csprojAssemblyReference.cache
+C:\Users\mypc\source\repos\DamaTahtasi2\DamaProject\obj\Debug\DamaProject.Form1.resources
+C:\Users\mypc\source\repos\DamaTahtasi2\DamaProject\obj\Debug\DamaProject.Properties.Resources.resources
+C:\Users\mypc\source\repos\DamaTahtasi2\DamaProject\obj\Debug\DamaProject.csproj.GenerateResource.cache
+C:\Users\mypc\source\repos\DamaTahtasi2\DamaProject\obj\Debug\DamaProject.csproj.CoreCompileInputs.cache
+C:\Users\mypc\source\repos\DamaTahtasi2\DamaProject\obj\Debug\DamaProject.exe
+C:\Users\mypc\source\repos\DamaTahtasi2\DamaProject\obj\Debug\DamaProject.pdb
